@@ -1,0 +1,21 @@
+{
+    "name": "eventsauce/message-repository-test-tooling",
+    "description": "Message Repository Test Tooling",
+    "autoload": {
+        "psr-4": {
+            "EventSauce\\MessageRepositoryTestTooling\\": "./"
+        }
+    },
+    "require": {
+        "eventsauce/eventsauce": "^1.0",
+        "phpunit/phpunit": "^9.5",
+        "ramsey/uuid": "^4.1"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Frank de Jonge",
+            "email": "info@frankdejonge.nl"
+        }
+    ]
+}
